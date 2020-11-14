@@ -1,2 +1,2 @@
 # hello-world
-this is a short description write when create
+this is a short description writed when create
